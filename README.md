@@ -17,3 +17,5 @@ Projeto de banco de dados relacional para gerenciamento de pedidos, clientes, pr
 - OrderDetails → Orders e Products
 - Orders → Customers, Employees e Shippers
 - Products → Suppliers e Categories
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/b97e1382-3c38-47c6-a0ea-9c1a84e3c069" />
